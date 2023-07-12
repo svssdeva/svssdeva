@@ -34,6 +34,6 @@ I'm presently expanding my tech presence on platforms like LinkedIn and GitHub. 
 ## Find me elsewhere 🌎
 * 👔 ([LinkedIn](https://www.linkedin.com/in/deveshwar-jaiswal-frontendninja/))
 * 🚀 ([Gitlab](https://gitlab.com/deveshwar.jaiswal))
-* 📸 ([Instagram]((https://www.instagram.com/deveshwar_jaiswal_/))
+* 📸 ([Instagram](https://www.instagram.com/deveshwar_jaiswal_/))
 
 Feel free to explore my profile and projects. If you're interested, let's code, collaborate, and create together! 💻
