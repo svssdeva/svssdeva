@@ -8,8 +8,11 @@ When I'm not deep in code, you can find me exploring the latest tech, flexing my
 * *Angular*
 * *Ionic*
 * *React*
-* *JavaScript*
 * *Next.js*
+* *TypeScript*
+* *JavaScript*
+* *Capacitor*
+* *Electron*
 
 ## Technical Skills 🧪
 * *Data Structures & Algorithms*
