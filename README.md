@@ -1,6 +1,7 @@
 # Hello, I'm Deveshwar Jaiswal ! 👋
+## Strategizing components, fixing 'one last bug,' and pretending Figma files are final. 🎭
 
-I'm a Frontend Developer with over 6 years of experience specializing in Angular, Ionic, React, JavaScript, and Next.js. Currently, I'm working at one of the top EdTech companies in India, propelling the future of education through intuitive and engaging applications. 🚀⚡
+I'm a Frontend Lead Dev with over 6 years of experience specializing in Angular, Ionic, React, JavaScript, and Next.js. Currently, I'm working at one of the top EdTech companies in India, propelling the future of education through intuitive and engaging applications. 🚀⚡
 
 When I'm not deep in code, you can find me exploring the latest tech, flexing my gaming skills, praying in temples/home, watching anime or traveling. 🎮🌍
 
@@ -13,12 +14,16 @@ When I'm not deep in code, you can find me exploring the latest tech, flexing my
 * *JavaScript*
 * *Capacitor*
 * *Electron*
+* *Astro*
+* *SolidJs*
+* *WASM*
 
 ## Technical Skills 🧪
 * *Data Structures & Algorithms*
 * *System Design*
 * *Agile/Scrum methodologies*
 * *POCs & R&Ds*
+* *Trying out RUST*
 
 ## Non-Technical Skills 🤹‍♂
 * *Effective communication*
