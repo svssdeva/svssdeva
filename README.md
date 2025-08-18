@@ -6,24 +6,24 @@ I'm a Frontend Lead Dev with over 6 years of experience specializing in Angular,
 When I'm not deep in code, you can find me exploring the latest tech, flexing my gaming skills, praying in temples/home, watching anime or traveling. 🎮🌍
 
 ## Frontend Skills 🛠
-* *Angular*
-* *Ionic*
-* *React*
-* *Next.js*
-* *TypeScript*
-* *JavaScript*
-* *Capacitor*
-* *Electron*
-* *Astro*
-* *SolidJs*
-* *WASM*
+* *Frameworks: Angular, Ionic, React, Next.js, Astro, Electron, Capacitor, SolidJs, HTMX, Qwik, Lit*
+* *Languages: TypeScript, JavaScript, WASM*
+* *Build Tools: Vite, Farm, RSbuild, RSpack, ESbuild*
+* *Package Managers: Bun, Pnpm, Npm, Yarn*
+
+## Backend Skills 🧪
+* *Languages: Go,Rust, Javascript, Typescript*
+* *Runtime: Node, Bun*
+* *Frameworks: NestJS, Ent, Gin*
+* *Devops: Docker, CI-CD pipelines*
 
 ## Technical Skills 🧪
-* *Data Structures & Algorithms*
-* *System Design*
+* *System Design & Architecture*
 * *Agile/Scrum methodologies*
 * *POCs & R&Ds*
-* *Trying out RUST*
+* *SEO Optimization*
+* *Frontend Performance*
+* *Data Structures & Algorithms*
 
 ## Non-Technical Skills 🤹‍♂
 * *Effective communication*
@@ -31,10 +31,12 @@ When I'm not deep in code, you can find me exploring the latest tech, flexing my
 * *Problem-solving*
 * *Team collaboration*
 * *Adaptability*
+* *Optimizing Develpoer Experience*
+* *Team grooming & Upskilling*
 * *People want a manager like me (Flexing this)*
 
 ## Current Work 👨‍💻
-I'm honing my skills at PhysicsWallah ([PW](https://www.linkedin.com/company/physicswallah/mycompany/)), one of the leading EdTech companies in India, creating beautiful, efficient, and user-friendly applications.
+I'm honing my skills at PhysicsWallah ([PW](https://www.linkedin.com/company/physicswallah/mycompany/)), one of the leading EdTech companies in India, creating beautiful, efficient, and user-friendly applications. I'm leading the ecomm PW store vertical end to end (EM) & managing Revenue Pod's Frontend (Team Lead).
 
 ## What I'm focusing on 🧐
 I'm presently expanding my tech presence on platforms like LinkedIn and GitHub. Looking forward to connecting with other passionate developers and growing my professional network.
