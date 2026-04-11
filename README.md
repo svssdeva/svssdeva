@@ -53,9 +53,13 @@
 
 ## 🧑‍💻 Who I Am
 
-**Senior Staff Engineer @ [PhysicsWallah](https://www.linkedin.com/company/physicswallah/)** — India's largest EdTech platform. Leading the PW Store ecommerce vertical end-to-end (EM) and the Revenue Pod frontend as Team Lead. 6+ years shipping at scale.
+<div align="center">
+  <img src="assets/goku-walk.gif" width="180" alt="Goku SSJ4" />
+</div>
 
-I architect systems, mentor engineers, obsess over performance, and believe developer experience is a product decision — not a config file. When I'm not in code: temples, anime, Fortnite, Marvel Rivals, and building things in stolen hours.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=600&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&height=160&lines=$+whoami;%3E+Deveshwar+Jaiswal;$+cat+role.txt;%3E+Senior+Staff+Engineer+%40+PhysicsWallah;$+ls+projects%2F;%3E+beyondcodekarma+grind+arcade+api;$+cat+hobbies.txt;%3E+Temples+%7C+Anime+%7C+Fortnite+%7C+Stolen+Hours;$+%E2%96%88" alt="Terminal Bio" />
+</div>
 
 ---
 
@@ -115,13 +119,25 @@ I architect systems, mentor engineers, obsess over performance, and believe deve
 
 ---
 
+## 🌸 Anime Quote of the Day
+
+<div align="center">
+  <img src="assets/sakura-divider.svg" width="800" alt="Sakura petals" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/svssdeva/svssdeva/main/assets/anime-quote.svg" width="600" alt="Anime Quote of the Day" />
+  <br/>
+  <img src="assets/sakura-divider.svg" width="800" alt="Sakura petals" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=svssdeva&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=svssdeva&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svssdeva&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svssdeva&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 <br/><br/>
 
@@ -145,7 +161,7 @@ This site exists in stolen hours. If something here helped you think differently
 
 ---
 
-## 🐍 Contribution Graph
+## 🕹️ Pac-Man Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake-dark.svg" />
