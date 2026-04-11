@@ -135,9 +135,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=svssdeva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/svssdeva/svssdeva/main/assets/github-stats.svg" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svssdeva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/svssdeva/svssdeva/main/assets/github-langs.svg" alt="Top Languages" />
 
 <br/><br/>
 
@@ -145,7 +145,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=svssdeva&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/svssdeva/svssdeva/main/assets/github-trophies.svg" alt="GitHub Achievements — BCK Rank" />
 
 </div>
 
@@ -177,19 +177,7 @@ This site exists in stolen hours. If something here helped you think differently
 
 <div align="center">
 
-<img src="assets/ssj-trans.gif" width="200" alt="SSJ" title="SSJ — The beginning" />
-&nbsp;&nbsp;
-<img src="assets/ssj2-trans.gif" width="200" alt="SSJ2" title="SSJ2 — Sharper, faster" />
-&nbsp;&nbsp;
-<img src="assets/ssj3-trans.gif" width="200" alt="SSJ3" title="SSJ3 — All in" />
-&nbsp;&nbsp;
-<img src="assets/full-power-ssj4.gif" width="200" alt="SSJ4 Full Power" title="SSJ4 — Full Power" />
-&nbsp;&nbsp;
-<img src="assets/ssj-god.gif" width="200" alt="SSJ God" title="SSJ God — A different kind of power" />
-&nbsp;&nbsp;
-<img src="assets/ssj-blue.gif" width="200" alt="SSJ Blue" title="SSJ Blue — Perfected" />
-&nbsp;&nbsp;
-<img src="assets/kaioken-blue.gif" width="200" alt="SSJ Blue Kaioken" title="SSJ Blue Kaioken — Beyond limits" />
+<img src="assets/power-level-slider.gif" width="300" alt="Goku Power Level Slider — SSJ through SSJ Blue Kaioken" />
 
 </div>
 

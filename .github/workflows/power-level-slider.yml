@@ -1,0 +1,25 @@
+name: Generate Power Level Slider
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: pip install Pillow
+
+      - name: Generate slider GIF
+        run: python3 scripts/generate_power_level_slider.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/power-level-slider.gif
+          git diff --staged --quiet || (git commit -m "chore: generate power level slider animation" && git push)
