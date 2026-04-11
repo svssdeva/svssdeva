@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=svssdeva&color=7857FE&style=flat-square&label=Profile+Views" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-7857FE?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-7857FE?style=flat-square" alt="Experience" />
   &nbsp;
   <a href="https://www.linkedin.com/company/physicswallah/">
     <img src="https://img.shields.io/badge/PhysicsWallah-Senior%20Staff%20Engineer-FF6B00?style=flat-square" alt="PhysicsWallah" />
