@@ -54,11 +54,11 @@
 ## 🧑‍💻 Who I Am
 
 <div align="center">
-  <img src="assets/goku-walk.gif" width="180" alt="Goku SSJ4" />
+  <img src="assets/goku.gif" width="180" alt="Goku SSJ4" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=600&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&height=160&lines=$+whoami;%3E+Deveshwar+Jaiswal;$+cat+role.txt;%3E+Senior+Staff+Engineer+%40+PhysicsWallah;$+ls+projects%2F;%3E+beyondcodekarma+grind+arcade+api;$+cat+hobbies.txt;%3E+Temples+%7C+Anime+%7C+Fortnite+%7C+Stolen+Hours;$+%E2%96%88" alt="Terminal Bio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=00FF41&background=0D111700&center=true&vCenter=true&width=700&height=180&lines=$+whoami;%3E+Deveshwar+Jaiswal;$+cat+role.txt;%3E+Senior+Staff+Engineer+%40+PhysicsWallah;$+ls+projects%2F;%3E+beyondcodekarma+grind+arcade+api;$+cat+hobbies.txt;%3E+Temples+%7C+Anime+%7C+Gaming+%7C+Stolen+Hours;$+%E2%96%88" alt="Terminal Bio" />
 </div>
 
 ---
@@ -135,9 +135,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=svssdeva&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=svssdeva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svssdeva&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svssdeva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 <br/><br/>
 
@@ -166,8 +166,32 @@ This site exists in stolen hours. If something here helped you think differently
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+---
+
+## ⚡ Power Level
+
+> *Every rank is earned. No shortcuts, no shortcuts, just reps — same as [ZERO TO GRIND](https://grind.beyondcodekarma.in).*
+
+<div align="center">
+
+<img src="assets/ssj-trans.gif" width="200" alt="SSJ" title="SSJ — The beginning" />
+&nbsp;&nbsp;
+<img src="assets/ssj2-trans.gif" width="200" alt="SSJ2" title="SSJ2 — Sharper, faster" />
+&nbsp;&nbsp;
+<img src="assets/ssj3-trans.gif" width="200" alt="SSJ3" title="SSJ3 — All in" />
+&nbsp;&nbsp;
+<img src="assets/full-power-ssj4.gif" width="200" alt="SSJ4 Full Power" title="SSJ4 — Full Power" />
+&nbsp;&nbsp;
+<img src="assets/ssj-god.gif" width="200" alt="SSJ God" title="SSJ God — A different kind of power" />
+&nbsp;&nbsp;
+<img src="assets/ssj-blue.gif" width="200" alt="SSJ Blue" title="SSJ Blue — Perfected" />
+&nbsp;&nbsp;
+<img src="assets/kaioken-blue.gif" width="200" alt="SSJ Blue Kaioken" title="SSJ Blue Kaioken — Beyond limits" />
+
+</div>
 
 ---
 
