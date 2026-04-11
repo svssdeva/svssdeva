@@ -7,10 +7,10 @@ import os, sys
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-CANVAS_W        = 300
-CANVAS_H        = 240
+CANVAS_W        = 600
+CANVAS_H        = 480
 BG              = (26, 27, 39)        # tokyonight bg
-LABEL_H         = 30                   # height reserved at bottom for label
+LABEL_H         = 50                   # height reserved at bottom for label
 GIF_H           = CANVAS_H - LABEL_H  # usable height for the sprite
 MAX_FRAMES      = 28                   # max frames to take from each source GIF
 TRANSITION_STEPS = 14                  # frames for slide-in animation
@@ -62,7 +62,7 @@ def draw_label(canvas, text, color):
     draw = ImageDraw.Draw(canvas)
     # Use default PIL font — no external font needed
     try:
-        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 14)
+        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 22)
     except Exception:
         font = ImageFont.load_default()
     bbox = draw.textbbox((0, 0), text, font=font)

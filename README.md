@@ -164,9 +164,9 @@ This site exists in stolen hours. If something here helped you think differently
 ## 🕹️ Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake.svg" />
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/svssdeva/svssdeva/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svssdeva/svssdeva/main/assets/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svssdeva/svssdeva/main/assets/pacman-light.svg" />
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/svssdeva/svssdeva/main/assets/pacman-dark.svg" />
 </picture>
 
 ---
@@ -177,7 +177,7 @@ This site exists in stolen hours. If something here helped you think differently
 
 <div align="center">
 
-<img src="assets/power-level-slider.gif" width="300" alt="Goku Power Level Slider — SSJ through SSJ Blue Kaioken" />
+<img src="assets/power-level-slider.gif" width="600" alt="Goku Power Level Slider — SSJ through SSJ Blue Kaioken" />
 
 </div>
 
