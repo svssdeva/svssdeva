@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+Staff+Engineer.;Frontend+Architect.;Building+beyondcodekarma.in;DSA+%2B+System+Design+%40+grind.beyondcodekarma.in;I+ship+things+that+score+100+on+Lighthouse." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Staff+Engineer.;Frontend+Architect.;Building+beyondcodekarma.in;DSA+%2B+System+Design+%40+grind.beyondcodekarma.in;I+ship+things+that+score+100+on+Lighthouse." alt="Typing SVG" />
 
 <h1>Deveshwar Jaiswal</h1>
 
@@ -9,9 +9,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-7857FE?style=flat-square" alt="Experience" />
   &nbsp;
-  <a href="https://www.linkedin.com/company/physicswallah/">
-    <img src="https://img.shields.io/badge/PhysicsWallah-Senior%20Staff%20Engineer-FF6B00?style=flat-square" alt="PhysicsWallah" />
-  </a>
 </p>
 
 <p><em>"Strategizing components, fixing 'one last bug,' and pretending Figma files are final."</em></p>
@@ -58,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=00FF41&background=0D111700&center=true&vCenter=true&width=700&height=180&lines=$+whoami;%3E+Deveshwar+Jaiswal;$+cat+role.txt;%3E+Senior+Staff+Engineer+%40+PhysicsWallah;$+ls+projects%2F;%3E+beyondcodekarma+grind+arcade+api;$+cat+hobbies.txt;%3E+Temples+%7C+Anime+%7C+Gaming+%7C+Stolen+Hours;$+%E2%96%88" alt="Terminal Bio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=00FF41&background=0D111700&center=true&vCenter=true&width=700&height=180&lines=$+whoami;%3E+Deveshwar+Jaiswal;$+cat+role.txt;%3E+Staff+Engineer+%40;$+ls+projects%2F;%3E+beyondcodekarma+grind+arcade+api;$+cat+hobbies.txt;%3E+Temples+%7C+Anime+%7C+Gaming+%7C+Stolen+Hours;$+%E2%96%88" alt="Terminal Bio" />
 </div>
 
 ---
