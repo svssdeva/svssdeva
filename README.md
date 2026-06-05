@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Staff+Engineer.;Frontend+Architect.;Building+beyondcodekarma.in;DSA+%2B+System+Design+%40+grind.beyondcodekarma.in;I+ship+things+that+score+100+on+Lighthouse." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Staff+Engineer.;Frontend+Architect.;Building+beyondcodekarma.in;DSA+%2B+System+Design+%40+grind.beyondcodekarma.in;Shipping+WebGPU+%2B+Rust+MCP+tools+%40+shastra;I+ship+things+that+score+100+on+Lighthouse." alt="Typing SVG" />
 
 <h1>Deveshwar Jaiswal</h1>
 
@@ -45,6 +45,39 @@
 | ⚔️ | **[grind.beyondcodekarma.in](https://grind.beyondcodekarma.in)** | DSA + System Design · XP / Rank System (F → SSS+) | Astro 6 · IndexedDB · Offline-first | [![Live](https://img.shields.io/badge/status-live-00C853?style=flat-square)](https://grind.beyondcodekarma.in) |
 | 🕹️ | **[arcade.beyondcodekarma.in](https://arcade.beyondcodekarma.in)** | Retro Browser Games · 60fps Fixed-step Game Loop | PixiJS 8 · WebGL · Unified Input | [![Live](https://img.shields.io/badge/status-live-00C853?style=flat-square)](https://arcade.beyondcodekarma.in) |
 | 🔌 | **[api.beyondcodekarma.in](https://api.beyondcodekarma.in/health)** | Auth · Analytics · Progress Tracking · Headless CMS | Go · Lambda ARM64 · Neon Postgres · SQS | [![Live](https://img.shields.io/badge/status-live-00C853?style=flat-square)](https://api.beyondcodekarma.in/health) |
+
+---
+
+## 🛠️ Public Arsenal
+
+> Open source. Read it, fork it, ship with it.
+
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 🔱 | **[shastra](https://github.com/svssdeva/shastra)** | Four shipped *instruments* that put Claude — and humans — in contact with real systems | WebGPU · Rust 2024 · eBPF · CRDT |
+| | ↳ **Yantra** | In-browser WebGPU finite-element heat solver. Drop an STL, watch heat spread to steady-state | Astro · Three.js · WGSL |
+| | ↳ **Trishul** | Rust MCP server — live eBPF/DTrace/ETW syscall + process/network/USB view for Claude | Rust · rmcp · aya |
+| | ↳ **Naadi** | Multiplayer WGSL shader sandbox. Co-edit one shader; every peer's GPU renders. P2P, zero server bandwidth | Loro CRDT · WebRTC · WebGPU |
+| | ↳ **Darshan** | Local-first vision agent. OCR + dashcam incident extraction, swappable WASM backends. Zero cloud | transformers.js · ORT · Rust→WASM |
+| 📦 | **[cap-silent-update](https://github.com/svssdeva/cap-silent-update)** | Self-hosted silent OTA updates for Capacitor. Production-used. SHA-256 integrity + auto-rollback, ~15 kB, MIT | Capacitor · Android (Java) |
+| 🧠 | **[agentic-skills](https://github.com/svssdeva/agentic-skills)** ⭐ | 125 drop-in Claude Code skills — behavioral modules across 20+ domains | Markdown · Claude Code |
+
+---
+
+## 🌌 Private Constellation
+
+> Building in private. Names you'll see soon.
+
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 🔱 | **Trinetra** · त्रिनेत्र | The third eye for your frontend — self-hosted RUM, errors, slow paints. ~4 kB SDK, ~11 MB collector, zero SaaS | Rust · SQLite/Postgres |
+| 🎓 | **Shiksha** | Multi-tenant LMS for Indian coaching institutes — replaces WhatsApp + Drive + Zoom with one branded platform | Rust (Axum) · Angular · Capacitor |
+| 🖍️ | **Whiteboard / AI Tutor** | Streams animated lessons — LaTeX, SVG diagrams, synced TTS — to an interactive React canvas | NestJS · Astro 6 · React 19 |
+| 🪔 | **Tithi Mala** | Vedic Panchang + mantra/jaap tracker; precise astronomy via a Rust `panchangam` crate | Rust Lambda · Astro · Capacitor |
+| 📖 | **Katha Mala** | Bilingual Hindu-mythology scrollytelling for kids 4–12, zero-JS engine | Astro · MDX · IntersectionObserver |
+| 🎬 | **Leela** | The divine play engine — a Rust-based video player | Rust · Tauri |
+| 🎮 | **Dasha** | *Realms of Dharma* — a game | Rust |
+| 🧸 | **W4RL0K / ToyForge** | 3D-printed-toys storefront, India-first static SSG | Go · Rust · Astro |
 
 ---
 
