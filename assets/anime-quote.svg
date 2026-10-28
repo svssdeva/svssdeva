@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="156" viewBox="0 0 600 156">
-  <rect width="600" height="156" rx="12" fill="#1a1b27"/>
-  <rect x="1" y="1" width="598" height="154" rx="11" fill="none" stroke="#70a5fd" stroke-width="1" opacity="0.35"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="134" viewBox="0 0 600 134">
+  <rect width="600" height="134" rx="12" fill="#1a1b27"/>
+  <rect x="1" y="1" width="598" height="132" rx="11" fill="none" stroke="#70a5fd" stroke-width="1" opacity="0.35"/>
   <text x="16" y="36" font-size="20">🌸</text>
   <text x="562" y="36" font-size="20">🌸</text>
   <text x="22" y="52" font-family="Georgia,serif" font-size="44" fill="#70a5fd" opacity="0.3">“</text>
-  <text font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#c0caf5" x="34" y="58"><tspan x="34" dy="0">Hard work is worthless for those that don&apos;t</tspan><tspan x="34" dy="22">believe in themselves.</tspan></text>
-  <text x="34" y="112" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#70a5fd">— Naruto Uzumaki</text>
-  <text x="34" y="130" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#565f89" font-style="italic">Naruto</text>
-  <text x="590" y="146" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#3b4261" text-anchor="end">updated daily</text>
+  <text font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#c0caf5" x="34" y="58"><tspan x="34" dy="0">Power comes in response to a need, not a desire.</tspan></text>
+  <text x="34" y="90" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#70a5fd">— Goku</text>
+  <text x="34" y="108" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#565f89" font-style="italic">Dragon Ball Z</text>
+  <text x="590" y="124" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#3b4261" text-anchor="end">updated daily</text>
 </svg>
